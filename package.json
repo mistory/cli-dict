@@ -1,10 +1,10 @@
 {
   "name": "cli-dict",
-  "version": "0.0.51",
+  "version": "0.0.55",
   "description": "命令行翻译工具",
   "main": "",
   "bin": {
-    "dict": "bin/index"
+    "dict": "./bin/index"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
