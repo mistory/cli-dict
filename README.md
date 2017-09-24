@@ -14,7 +14,12 @@
 **Example**
 ``` bash
   $ dict hello world
-  $ dict 你好
+  > 你好世界
+  $ dict 然
+  > conj. but；however
+    adj. right
+    vt. correct
+    adv. so；nevertheless
 ```
 
 **Options**
