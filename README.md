@@ -15,6 +15,7 @@
 ``` bash
   $ dict hello world
   > 你好世界
+  
   $ dict 然
   > conj. but；however
     adj. right
