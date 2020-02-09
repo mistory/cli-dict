@@ -32,7 +32,7 @@
   Options:
 
     -V, --version        output the version number
-    -s, --source [name]  指定翻译源
+    -s, --source [name]  specify translation source
     -h, --help           output usage information
 ```
 

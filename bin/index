@@ -7,7 +7,7 @@ const query   = require('../lib/query')
 
 program
     .version(package.version)
-    .option('-s, --source [name]', '指定翻译源')
+    .option('-s, --source [name]', 'specify translation source')
     .parse(process.argv)
 
 query(program.args.join(' '), program.source)
