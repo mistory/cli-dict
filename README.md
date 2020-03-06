@@ -17,10 +17,16 @@
   > 你好世界
   
   $ dict 然
-  > conj. but；however
+  > pron. [rán]
+    conj. but；however
     adj. right
     vt. correct
     adv. so；nevertheless
+
+  $ dict deficiency
+  > pron. [dɪˈfɪʃnsi]
+    n. 缺陷，缺点；缺乏；不足的数额
+
 ```
 
 **Options**

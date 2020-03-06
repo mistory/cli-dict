@@ -10,4 +10,6 @@ program
     .option('-s, --source [name]', 'specify translation source')
     .parse(process.argv)
 
-query(program.args.join(' '), program.source)
+if(program.args.length >= 1){
+    query(program.args.join(' '), program.source)
+}
